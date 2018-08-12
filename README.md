@@ -19,9 +19,13 @@ INSTRUCTIONS TO USE THE CODE:
 1. python has been used in this project
 2. library that has been used of python 
 	->pysubs (for parsing the subtitle)
+	
 	->piexif (extracting the metadata)
+	
 	->geopy.distance   (calculate the distance between 2 coordinates)
+	
 	->pandas(to update a column in CSV file)
+
 3.file   srtData.py has  the code to parse the srt file
 4 file metaDta.py has the code  to extract the data from images folder
 5. calculate distance between the coordinates using the file calculateDistance.py
