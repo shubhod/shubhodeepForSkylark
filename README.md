@@ -44,7 +44,9 @@ INSTRUCTIONS TO USE THE CODE:
 
 
 HOW TO RUN THE CODE:
-1.open the  file writeOnCsv.py  this is main file which needs to be run inorder  to  store the data in csv file 
-2. to check the results open mycsv.csv and assets.csv  
+
+1.open the  file writeOnCsv.py this is main file which needs to be run inorder to store the data in csv file 
+
+2.to check the results open mycsv.csv and assets.csv  
 
 
