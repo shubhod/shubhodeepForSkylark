@@ -34,12 +34,19 @@ INSTRUCTIONS TO USE THE CODE:
 	->pandas(to update a column in CSV file)
 
 3.file   srtData.py has  the code to parse the srt file
+
 4 file metaDta.py has the code  to extract the data from images folder
+
 5. calculate distance between the coordinates using the file calculateDistance.py
+
 6.file writeOnCsv.py  has the code to write the data on CSV file
+
 7. file   readcsvFile.py to read the data from assests.csv and update the image_names column      
+
 8.all the data has been save to mycsv.csv for the first assignment (35m range)
+
 9.all the files are inside skylark folder
+
 10. all the path has been used as per the folder
 
 
