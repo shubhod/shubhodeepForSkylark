@@ -50,9 +50,12 @@ INSTRUCTIONS TO USE THE CODE:
 10. all the path has been used as per the folder
 
 
+
 HOW TO RUN THE CODE:
 
-1.open the  file writeOnCsv.py this is main file which needs to be run inorder to store the data in csv file 
+1. unzip the folder skylark
+
+2.open the  file writeOnCsv.py this is main file which needs to be run inorder to store the data in csv file 
 
 2.to check the results open mycsv.csv and assets.csv  
 
