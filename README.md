@@ -4,20 +4,20 @@
 
 ABOUT THE ASSINGMENT
 
-1. parse the data in srt file
+1 parse the data in srt file
 
-2 .push the data into array by making objects  eg.({longitude:73.434234,latitude:"19.00213212",start:100 end:200})
+2 push the data into array by making objects  eg.({longitude:73.434234,latitude:"19.00213212",start:100 end:200})
 
-3.traverse the folder of images and get the metadata of the images and    convert the  coordinates into a proper decimal format  or degree format
+3 traverse the folder of images and get the metadata of the images and    convert the  coordinates into a proper decimal format  or degree format
 
-4.make an array of objects of all the images 
+4 make an array of objects of all the images 
 
 5 compare the srt data from the metadata by calculating the distance  between them  all the images less than 35 meters make a dictionary
  eg.({key:value}) where the key will be the time and value will be an array of filenames that are within 35 meters in that sec
 
-6.store the data in CSV file
+6 store the data in CSV file
 
-7.check the asssets file  
+7 check the asssets file  
 
 
 INSTRUCTIONS TO USE THE CODE:
