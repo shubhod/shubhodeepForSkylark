@@ -18,6 +18,7 @@ INSTRUCTIONS TO USE THE CODE:
 
 1. python has been used in this project
 2. library that has been used of python 
+	
 	->pysubs (for parsing the subtitle)
 	
 	->piexif (extracting the metadata)
